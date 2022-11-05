@@ -1,3 +1,7 @@
 Hi There
+<<<<<<< HEAD
 I'm Nitish;
+=======
+I'm Ankur;
+>>>>>>> dea85d896b3cd183423e293908c42f870559a620
 Hello;
